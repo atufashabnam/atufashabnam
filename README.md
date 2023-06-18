@@ -1,13 +1,11 @@
-<img src="https://raw.githubusercontent.com/atufashabnam/atufashabnam/main/intro.gif" alt="👋 Hi there! I'm Atufa" title="👋 Hi there! I'm Atufa"/>
+<h1 align="center">Hi 👋, I'm Atufa</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p></p>
 <p align="justify">
 Welcome to my GitHub Page. I am Atufa Shabnam and now a Software Developer, I learn new things about programming and teach these things to others. I bring a multicultural perspective to my work.
 Skilled in multiple programming languages, web development technologies. Experienced in collaborating with teams to deliver highquality code within tight deadlines. Strong problem-solving, analytical, and communication skills.
 </p>
-
-<h1 align="center">Hi 👋, I'm Atufa</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atufashabnam&label=Profile%20views&color=0e75b6&style=flat" alt="atufashabnam" /> </p>
 
