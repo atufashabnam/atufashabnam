@@ -1,4 +1,23 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Atufa" title="👋 Hi there! I'm Atufa"/>
+
+
+<div align="justify">
+
+<a href="https://www.instagram.com/atufa_shab/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/atufashabnam/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+<p></p>
+<p align="justify">
+welcome to my GitHub Page. I am Atufa Shabnam and now a Software Developer, I learn new things about programming and teach these things to others. I bring a multicultural perspective to my work.
+Skilled in multiple programming languages, web development technologies. Experienced in collaborating with teams to deliver highquality code within tight deadlines. Strong problem-solving, analytical, and communication skills.
+</p>
 
 <h1 align="center">Hi 👋, I'm Atufa</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
