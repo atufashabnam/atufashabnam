@@ -20,10 +20,6 @@ Skilled in multiple programming languages, web development technologies. Experie
 <h3 align="left">Connect with me:</h3>
 <div align="justify">
 
-<a href="https://www.instagram.com/atufa_shab/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/atufashabnam/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
