@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 
 <p align="justify">
-Welcome to my GitHub Page. I am Atufa Shabnam mother and a Software Developer, I learn new things about programming and teach these things to others. I bring a multicultural perspective to my work.
+Welcome to my GitHub Page. I am Atufa Shabnam, mother and a Software Developer, I learn new things about programming and teach these things to others. I bring a multicultural perspective to my work.
 Skilled in multiple programming languages, web development technologies. Experienced in collaborating with teams to deliver highquality code within tight deadlines. Strong problem-solving, analytical, and communication skills.
 </p>
 
